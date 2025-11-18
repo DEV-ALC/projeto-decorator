@@ -26,7 +26,7 @@ No exemplo do projeto, as pizzas podem ser manipuladas da forma como desejar, po
 
 ## Diagrama UML
 
-![Diagrama UML](./UML.jpeg)
+![Diagrama UML](uml.jpeg)
 
 ---
 
